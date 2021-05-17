@@ -8,6 +8,11 @@ body{
 a{
     color: grey;
 }
+* {box-sizing: border-box;}
+h1{
+    font-size: 20px;
+    color: grey;
+}
 .nav{
     background-color: #333;
     overflow: hidden;
@@ -18,18 +23,52 @@ a{
 .nav-logo{
     width: 100px;
 }
-.item-right{
-    float: right;
-    padding: 3rem;
-}
+
 .nav-item{
     list-style-type: none;
     text-decoration: none;
     font-size: 18px;
-    padding-top: 0rem;
-    float: right;
-}
+}   
 /* Carousel */
 .home-images{
     width: 100%;
 }
+/* About Card */
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+.btn{
+    color: white;
+    background-color: tomato;
+}
+.btn:hover{
+    background-color: red;
+}
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 80px;
+  }
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: tomato;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+ 
+    
