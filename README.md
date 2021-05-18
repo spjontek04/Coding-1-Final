@@ -1,2 +1,3 @@
 # Coding-1-Final
- These are the starter files for S2021 Coding 1
+ <h1>Steven Pjontek's Coding 1 Final</h1>
+ <h2>This is my final exam for Coding 1, first block, 2nd semester. On the home page, i used the Bootstrap 5 stylesheet link to get my navbar to work correctly and be very nice looking. I had trouble with the Carousel not working from the start. I finally fixed it and it should work just fine. The about page was a simple information card with a picture and words and a button that leads you to my contact information. The contact page was a php contact form that (in theory) would send me information that you would type out to me. I really like the way this website looks.

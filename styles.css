@@ -70,5 +70,13 @@ h1{
     border-radius: 4px;
     cursor: pointer;
   }
- 
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(209, 209, 209);
+    color: rgb(53, 53, 53);
+    text-align: center;
+  }
     
